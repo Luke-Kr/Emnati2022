@@ -37,7 +37,5 @@ This repository **does not**:
 The simulation results generated with these inputs are discussed in my research on **Simulation of forced displacements in response tocyclone Emnati in Madagascar**.
 
 ---
-
-## Author
-**Luke Kraakman**  
+Luke Kraakman
 ---
