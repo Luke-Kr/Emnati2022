@@ -17,6 +17,7 @@ Emnati2022/
 - base/ # Contains all the files related to the base and extended simulation
 - extraCamp/ # Contains all the files related to the extra camp scenario
 - removedCamp/ # Contains all the files related to the removed camp scenario
+- fig/ # Contains all results figures
 - README.md # This document
 
 ---
