@@ -11,13 +11,13 @@ It contains the **input files** and **data preparation scripts** I used to set u
 ## Contents
 
 Emnati2022/
-├── dataprep.ipynb # Notebook used to clean and process raw data
-├── NNroutes.py # Helper script for route network construction
-├── mdg_admpop_adm2_2018.csv # Population by ADM2 (2018), used in preprocessing
-├── base/ # Contains all the files related to the base and extended simulation
-├── extraCamp/ # Contains all the files related to the extra camp scenario
-├── removedCamp/ # Contains all the files related to the removed camp scenario
-└── README.md # This document
+- dataprep.ipynb # Notebook used to clean and process raw data
+- NNroutes.py # Helper script for route network construction
+- mdg_admpop_adm2_2018.csv # Population by ADM2 (2018), used in preprocessing
+- base/ # Contains all the files related to the base and extended simulation
+- extraCamp/ # Contains all the files related to the extra camp scenario
+- removedCamp/ # Contains all the files related to the removed camp scenario
+- README.md # This document
 
 ---
 
